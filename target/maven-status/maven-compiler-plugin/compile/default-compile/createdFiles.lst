@@ -1,0 +1,15 @@
+dto\Location.class
+dto\Registered.class
+dto\Coordinates.class
+context\ScenarioContext.class
+dto\Result.class
+dto\User.class
+dto\Street.class
+dto\Name.class
+dto\Picture.class
+dto\Info.class
+dto\Dob.class
+dto\Timezone.class
+dto\Login.class
+utils\RandomUserGenerator.class
+dto\Id.class

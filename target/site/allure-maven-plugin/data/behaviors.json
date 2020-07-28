@@ -1,0 +1,25 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Search for a random user",
+    "children" : [ {
+      "name" : "The Facebook has a profile for a random user",
+      "children" : [ {
+        "name" : "The Facebook has a profile for a random user",
+        "uid" : "1f96a48cf240b5d5",
+        "parentUid" : "07761c073112dbe11476b34d08a7173f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1595844834225,
+          "stop" : 1595844846716,
+          "duration" : 12491
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "07761c073112dbe11476b34d08a7173f"
+    } ],
+    "uid" : "8b22f822e3139ba505fe0b9cdf45a5d5"
+  } ]
+}
